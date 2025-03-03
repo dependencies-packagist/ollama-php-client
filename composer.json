@@ -1,5 +1,4 @@
 {
-    "$schema": "https://getcomposer.org/schema.json",
     "name": "ollama/ollama-php-client",
     "description": "Community-Driven PHP SDK for Ollama AI API Integration.",
     "keywords": [
