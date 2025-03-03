@@ -1,0 +1,4 @@
+[submodule "ollama"]
+	path = ollama
+	url = git@github.com:ArdaGnsrn/ollama-php.git
+	branch = master
